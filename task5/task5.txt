@@ -1,0 +1,4 @@
+Task5: Define Fevicon and give an illustrative example.
+Ans: 
+A favicon, short for "favorite icon," is a small, typically 16x16 or 32x32 pixel image that represents a website or web page. Favicon images are displayed in various places within web browsers, such as in the browser's tab, next to the website's name in bookmarks, and in browser history lists. They are used to provide a visual identity for a website and help users quickly identify and differentiate between open tabs or bookmarks.
+An example is given in the task5.html file.
